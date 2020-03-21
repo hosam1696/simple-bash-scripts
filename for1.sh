@@ -1,4 +1,12 @@
 #!/bin/bash
+
+###
+# This script is basicaly used to capture the input from the user 
+# when he enter the inquiry and enter his friends names
+# then the script will display the input in nice format.
+###
+
+
 slugs=(first second third forth fifth)
 friends_names=()
 echo

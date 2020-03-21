@@ -1,5 +1,23 @@
+# Simple Bash Script
+___
+Collection of simple bash script that will written for new Learners
+
+### Installation
+
+```bash
+$ git clone https://github.com/hosam1696/simple-bash-scripts
+```
+
+**To Open the repo on Your Browser**
+
+```bash
+$ npm repo
+
+```
+  
 
 
+**To list the available shells on your machine**
 
 ```
 > cat /etc/shells
