@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##
-# this script is intened to create a new local branch coressponding to 
+# this script is intended to create a new local branch corresponding to 
 # remote branches the best use case of the script if after cloning a git project
 ##
 

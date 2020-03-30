@@ -15,6 +15,6 @@
 #echo $secretMsg "Sorry Your Age " $anotherAge " is not Allowed."
 
 
-read -pa "Enter any Names" names
+read -p "Enter any Names" names
 
 echo $names
