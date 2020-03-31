@@ -1,5 +1,8 @@
 # Simple Bash Script
 ___
+
+![](https://travis-ci.com/hosam1696/simple-bash-scripts.svg?branch=master)
+
 Collection of simple bash script that will written for new Learners
 
 ### Installation
